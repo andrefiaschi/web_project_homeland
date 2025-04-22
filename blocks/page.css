@@ -3,9 +3,7 @@ body {
 }
 
 .page {
-  max-width: 985px;
-  min-width: 320px;
-  margin: 0 auto 0;
+  background-color: #2a2c2f;
 
   /* FONT */
 
@@ -13,4 +11,10 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: normal;
   font-size: 16px;
+}
+
+.content {
+  max-width: 985px;
+  min-width: 320px;
+  margin: 0 auto 0;
 }
