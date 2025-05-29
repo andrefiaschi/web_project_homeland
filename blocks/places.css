@@ -56,6 +56,7 @@
   display: inline-block;
   background: linear-gradient(to right, #0278fe, #003a7b);
   padding: 13px 20px;
+  border: 0;
   border-radius: 5px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
 
