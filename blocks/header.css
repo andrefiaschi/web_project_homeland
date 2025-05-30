@@ -1,8 +1,5 @@
 .header {
-  max-width: 985px;
-  min-width: 320px;
   margin: 0 auto 0;
-
   padding: 35px 35px;
   align-items: center;
   text-align: center;
@@ -24,7 +21,7 @@
 
 @media screen and (max-width: 544px) {
   .header {
-    padding: 20px 20px;
+    padding: 20px 0px;
   }
 
   .header__logo {

@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 544px) {
   .photo-grid {
-    padding: 0px 16px 0;
+    padding: 0px 10px 0;
 
     display: grid;
     grid-template-columns: 1fr;

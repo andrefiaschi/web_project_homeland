@@ -4,6 +4,9 @@ body {
 
 .page {
   background-color: #2a2c2f;
+  max-width: 985px;
+  min-width: 320px;
+  margin: 0 auto 0;
 
   /* FONT */
 

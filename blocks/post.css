@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 544px) {
   .post-header {
-    padding: 30px 16px 0;
+    padding: 30px 10px 0;
   }
 
   .post-header__title {
@@ -110,7 +110,7 @@
   }
 
   .post-content {
-    margin: 0 16px;
+    margin: 0 10px;
     padding: 64px 0;
   }
 
